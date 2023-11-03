@@ -48,6 +48,7 @@ function latestPost(){
 
 
 createPost({title:"POST3"})
+createPost({title: "POST4"});
 
 
 
